@@ -1,0 +1,14 @@
+.vscode/
+*.code-workspace
+.env
+.notes
+
+# Foundry
+cache/
+out/
+broadcast/
+
+# Hardhat
+cache_hardhat/
+artifacts/
+node_modules/

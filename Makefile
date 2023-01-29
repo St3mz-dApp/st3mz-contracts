@@ -50,8 +50,8 @@ anvil:; anvil -m "${ANVIL_MNEMONIC}"
 # Deploy contract to Anvil
 deploy-anvil:; @forge script script/Deploy.s.sol:Deploy --rpc-url http://localhost:8545 --private-key ${ANVIL_PRIVATE_KEY} --broadcast
 
-# Deploy contracts to Mumbai
-deploy-testnet:; @forge script script/Deploy.s.sol:Deploy --rpc-url ${TESTNET_RPC_URL} --private-key ${TESTNET_PRIVATE_KEY} --broadcast --verify --etherscan-api-key ${POLYGONSCAN_API_KEY} -vvvv
+# Deploy contracts to Testnet
+deploy-testnet:; @forge script script/Deploy.s.sol:Deploy --rpc-url ${TESTNET_RPC_URL} --private-key ${TESTNET_PRIVATE_KEY} --broadcast --verify --etherscan-api-key ${FTMSCAN_API_KEY} -vvvv
 
-# Deploy contractS to Polygon Mainnet
-deploy-mainnet:; @forge script script/Deploy.s.sol:Deploy --rpc-url ${MAINNET_RPC_URL} --private-key ${MAINNET_PRIVATE_KEY} --broadcast --verify --etherscan-api-key ${POLYGONSCAN_API_KEY} -vvvv --legacy
+# Deploy contractS to Mainnet
+deploy-mainnet:; @forge script script/Deploy.s.sol:Deploy --rpc-url ${MAINNET_RPC_URL} --private-key ${MAINNET_PRIVATE_KEY} --broadcast --verify --etherscan-api-key ${FTMSCAN_API_KEY} -vvvv --legacy

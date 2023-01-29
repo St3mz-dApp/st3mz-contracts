@@ -6,8 +6,8 @@
 
 |         | St3mz | St3mzUtil |
 | ------- |:--------:|:-----:|
-| **Mumbai**  | [0xf8ba37b852c05ef755865d06d2911b840433c2e4](https://mumbai.polygonscan.com/address/0xf8ba37b852c05ef755865d06d2911b840433c2e4#code) | [0x8e542a5e13df14b2c6cdd2eb07ada4bce879df38](https://mumbai.polygonscan.com/address/0x8e542a5e13df14b2c6cdd2eb07ada4bce879df38#code) |
-| Mainnet | [0xd89e04f2ddf5f8212461d27584216f00ab6e96f4](https://polygonscan.com/address/0xd89e04f2ddf5f8212461d27584216f00ab6e96f4#code) | [0x2da83a100e25ad3a2ea58967d37f8439a33de4fb](https://polygonscan.com/address/0x2da83a100e25ad3a2ea58967d37f8439a33de4fb#code) |
+| **Testnet**  | [0x0](https://testnet.ftmscan.com/address/0x0#code) | [0x0](https://testnet.ftmscan.com/address/0x0#code) |
+| **Mainnet** | [0x0](https://ftmscan.com/address/0x0#code) | [0x0](https://ftmscan.com/address/0x0#code) |
 
 ## Setup
 

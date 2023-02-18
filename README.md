@@ -2,12 +2,9 @@
 
 ## Contracts
 
-
-
 |         | St3mz | St3mzUtil |
 | ------- |:--------:|:-----:|
-| **Testnet**  | [0x0](https://testnet.ftmscan.com/address/0x0#code) | [0x0](https://testnet.ftmscan.com/address/0x0#code) |
-| **Mainnet** | [0x0](https://ftmscan.com/address/0x0#code) | [0x0](https://ftmscan.com/address/0x0#code) |
+| **Testnet**  | [0xde619f24562251520058773d3625b00716ce804b](https://testnet.ftmscan.com/address/0xde619f24562251520058773d3625b00716ce804b#code) | [0xecf1ff305d570585885f6078cff66a678777b10b](https://testnet.ftmscan.com/address/0xecf1ff305d570585885f6078cff66a678777b10b#code) |
 
 ## Setup
 
